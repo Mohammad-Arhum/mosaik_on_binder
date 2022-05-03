@@ -1,3 +1,3 @@
 numpy==1.14.5
-mosaik
+mosaik==3.0.1
 import-ipynb
